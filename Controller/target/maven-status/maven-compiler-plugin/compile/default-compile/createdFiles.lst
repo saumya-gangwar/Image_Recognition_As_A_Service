@@ -1,0 +1,13 @@
+com\aws\controller\handler\SqsHandlerImpl.class
+com\aws\controller\config\AwsConfiguration.class
+com\aws\controller\core\SqsCore.class
+com\aws\controller\handler\LoadBalancerHandler.class
+com\aws\controller\handler\EC2HandlerImpl.class
+com\aws\controller\core\SqsCoreImpl.class
+com\aws\controller\handler\EC2Handler.class
+com\aws\controller\constants\Constants.class
+com\aws\controller\core\EC2CoreImpl.class
+com\aws\controller\Main.class
+com\aws\controller\handler\SqsHandler.class
+com\aws\controller\handler\LoadBalancerHandlerImpl.class
+com\aws\controller\core\EC2Core.class

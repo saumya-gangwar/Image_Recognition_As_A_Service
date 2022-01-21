@@ -1,0 +1,13 @@
+com\aws\sqscontinuouslistener\handler\S3HandlerImpl.class
+com\aws\sqscontinuouslistener\handler\ListenerAndProcessHandlerImpl.class
+com\aws\sqscontinuouslistener\core\SqsCore.class
+com\aws\sqscontinuouslistener\config\AWSCredentialsProvider.class
+com\aws\sqscontinuouslistener\handler\SqsHandlerImpl.class
+com\aws\sqscontinuouslistener\handler\S3Handler.class
+com\aws\sqscontinuouslistener\constants\Constants.class
+com\aws\sqscontinuouslistener\core\S3CoreImpl.class
+com\aws\sqscontinuouslistener\MainListener.class
+com\aws\sqscontinuouslistener\handler\SqsHandler.class
+com\aws\sqscontinuouslistener\core\S3Core.class
+com\aws\sqscontinuouslistener\core\SqsCoreImpl.class
+com\aws\sqscontinuouslistener\handler\ListenerAndProcessHandler.class

@@ -1,0 +1,17 @@
+com\aws\sqslistener\core\S3Core.class
+com\aws\sqslistener\handler\SqsHandler.class
+com\aws\sqslistener\handler\ListenerAndProcessHandler.class
+com\aws\sqslistener\core\Ec2CoreImpl.class
+com\aws\sqslistener\handler\S3Handler.class
+com\aws\sqslistener\handler\S3HandlerImpl.class
+com\aws\sqslistener\core\SqsCore.class
+com\aws\sqslistener\handler\Ec2Handler.class
+com\aws\sqslistener\handler\Ec2HandlerImpl.class
+com\aws\sqslistener\MainListener.class
+com\aws\sqslistener\core\SqsCoreImpl.class
+com\aws\sqslistener\handler\ListenerAndProcessHandlerImpl.class
+com\aws\sqslistener\config\AWSCredentialsProvider.class
+com\aws\sqslistener\core\S3CoreImpl.class
+com\aws\sqslistener\handler\SqsHandlerImpl.class
+com\aws\sqslistener\constants\Constants.class
+com\aws\sqslistener\core\Ec2Core.class
